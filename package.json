@@ -1,0 +1,8 @@
+{
+  "name": "connect-sts",
+  "description": "Add ",
+  "version": "0.1.0",
+  "author": "Francois de Metz <fdemetz@af83.com>",
+  "engines": { "node": ">= 0.2" },
+  "dependencies": { "connect": "" }
+}
