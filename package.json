@@ -1,7 +1,7 @@
 {
   "name": "connect-sts",
-  "description": "Add ",
-  "version": "0.2.0",
+  "description": "Middleware to add Strict-Transport-Security header",
+  "version": "0.3.0",
   "author": "François de Metz <fdemetz@af83.com>",
   "dependencies": { "connect": "" },
   "repository": { "type": "git",
