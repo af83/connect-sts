@@ -1,7 +1,7 @@
 {
   "name": "connect-sts",
   "description": "Middleware to add Strict-Transport-Security header",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "François de Metz <fdemetz@af83.com>",
   "dependencies": { "connect": "" },
   "main": "./index.js",
