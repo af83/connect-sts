@@ -4,6 +4,7 @@
   "version": "0.3.0",
   "author": "François de Metz <fdemetz@af83.com>",
   "dependencies": { "connect": "" },
+  "main": "./index.js",
   "repository": { "type": "git",
                   "url": "http://github.com/AF83/connect-sts.git"
                 }
