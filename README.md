@@ -6,7 +6,12 @@ This middleware add *Strict-Transport-Security* header.
 
      var connect = require('connect');
      var sts = require('connect-sts');
-     var server = connect.createServer(sts(max_age, includeSubdomains);
+
+     var maxAge = 3600000 * 24 * 30; // 1 month
+     var includeSubdomains = false;
+
+     var server = connect.createServer(sts(maxAge, includeSubdomains));
+
      server.listen(3030);
 
 ## Reference
