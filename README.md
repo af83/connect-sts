@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/AF83/connect-sts.png)](http://travis-ci.org/AF83/connect-sts)
 # connect-sts (Strict Transport Security)
 
 This middleware add the *Strict-Transport-Security* header.
